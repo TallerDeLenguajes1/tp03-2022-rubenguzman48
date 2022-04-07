@@ -1,0 +1,24 @@
+cd "carpeta"
+cd .. "volver atras"
+ls "ver carpetas"
+git clone "clonar repositorio"
+git status
+git add
+git commit
+git branch
+git remote add origin
+https://github.com/su_usuario/tp12022.git
+git push -u origin main
+git commit -m "nombre de archivo"
+git branch Opcion_2 "Crea un rama"
+git checkout -b Opcion_2 "Accedo a la rama"
+git checkout -b Opcion_2 "Hace los dos pasos anteriores a la vez"
+
+
+
+C
+//value at num[2][3] donde, i=2 y j=3
+
+num[2][3] = *(ptr + (i* no_of_cols + j))
+               = *(prt + (2 * 4 + 3))
+               = *(ptr + 11) 
