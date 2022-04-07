@@ -5,7 +5,7 @@
 int main() 
     {
         char *Buff; //variable auxiliar
-        char* Nombre[4];
+        char *Nombre[4];
         int i;
 
         Buff= (char *) malloc(100*sizeof(char));
